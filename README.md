@@ -6,10 +6,14 @@
 
 </div>
 
-## 👋 About Me  
+## 👋 About Me
 
-I’m a **Full‑Stack Developer & Software Engineering student** with a strong passion for **problem‑solving**, building clean and scalable web applications (front‑end to back‑end), and learning new technologies.  
-I enjoy turning ideas into real‑world tools, tackling coding challenges, and improving continuously.  
+- 🖥️ Full‑Stack Developer & Software‑Engineering student  
+- ✨ Passionate about building clean, scalable web apps — front‑end to back‑end  
+- 💡 I love solving problems and turning ideas into real‑world tools  
+- 📚 Always learning: improving skills and exploring new technologies  
+- 🚀 Dedicated to growth, quality code, and continuous improvement  
+
 
 
 
