@@ -69,7 +69,4 @@ I enjoy turning ideas into real‑world tools, tackling coding challenges, and i
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
 
