@@ -9,7 +9,7 @@
 ## 👋 About Me
 
 - 🖥️ Full‑Stack Developer & Software‑Engineering student  
-- ✨ Passionate about building clean, scalable web apps — front‑end to back‑end  
+- ✨ Passionate about building clean, scalable web apps — front‑end to back-end 
 - 💡 I love solving problems and turning ideas into real‑world tools  
 - 📚 Always learning: improving skills and exploring new technologies  
 - 🚀 Dedicated to growth, quality code, and continuous improvement  
