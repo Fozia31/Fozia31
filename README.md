@@ -21,7 +21,7 @@
 
 <div align="left">
 
-- 📫 How to reach me **foziyadamtew@gmail.com**
+- 📫 How to reach me **foziyadamtew00@gmail.com**
 
 </div>
 
